@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLaboratorium", "ShapeLaboratorium.csproj", "{4C6F88ED-C7B1-49E1-89AB-FCEA824BEEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6F88ED-C7B1-49E1-89AB-FCEA824BEEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6F88ED-C7B1-49E1-89AB-FCEA824BEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6F88ED-C7B1-49E1-89AB-FCEA824BEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6F88ED-C7B1-49E1-89AB-FCEA824BEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C53EE4D-3112-4FBC-BA0D-E3BCFC9B2936}
+	EndGlobalSection
+EndGlobal
